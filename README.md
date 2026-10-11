@@ -5,6 +5,7 @@ An interactive Power BI dashboard developed to analyze retail sales, profit, cus
 
 ## Tools Used
 - Power BI
+- DAX (Data Analysis Expressions)
 - Microsoft Excel
 
 ## Dashboard Pages
